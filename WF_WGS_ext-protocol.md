@@ -1,7 +1,7 @@
 
 # Protocol for Zymo Quick-DNA mini-prep plus kit D4069
 
-### Modified for winter flounder low coverage whole genome sequencing
+#### Modified for winter flounder low coverage whole genome sequencing
 
 
 ## Digestion

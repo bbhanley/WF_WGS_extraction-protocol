@@ -1,30 +1,31 @@
-Protocol for Zymo Quick-DNA mini-prep plus kit D4069
+###Protocol for Zymo Quick-DNA mini-prep plus kit D4069
+##Modified for winter flounder low coverage whole genome sequencing
 
-Digestion
-Prep (where n = number of samples):
-  n + 1 labeled 2ml tubes
-n disposable razor blades and weigh boats
-n tweezers
-Preheat thermomixer to 55C
+##Digestion
+#Prep (where n = number of samples):
+- n + 1 labeled 2ml tubes
+- n disposable razor blades and weigh boats
+- n tweezers
+- Preheat thermomixer to 55C
 
 
-1.  Add a 1cm x 1cm piece of your sample to a labeled 2 ml  tube 
+1.Add a 1cm x 1cm piece of your sample to a labeled 2 ml  tube 
 
 2. Add 250 µl Water + 250 µl Solid Tissue Buffer (Blue) + 25 µl Proteinase K. Vortex to mix thoroughly
 
 3. Incubate the samples at 55ºC overnight at 350rpm
 
 
-Extraction
-Prep (where n = number of samples):
-  n + 1 labeled 2ml tubes
-2n collections tubes
-n + 1 Zymo spin columns
-n  + 1 1.5ml tubes labeled with sticker
-Preheat thermomixer to 56C
-Put elution buffer on the thermomixer to warm up
+##Extraction
+#Prep (where n = number of samples):
+- n + 1 labeled 2ml tubes
+- 2(n +1) collection tubes
+- n + 1 Zymo spin columns
+- n  + 1 1.5ml tubes labeled with sticker
+- Preheat thermomixer to 56C
+- Put elution buffer on the thermomixer to warm up
 
-If you’re quantifying your samples immediately after the extraction, remove Biotium Qubit reagents from the 4C fridge now
+#If you’re quantifying your samples immediately after the extraction, remove Biotium Qubit reagents from the 4C fridge now
 
 
 

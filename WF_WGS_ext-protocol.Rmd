@@ -1,8 +1,3 @@
----
-title: "WF_WGS_ext-protocol"
-output: html_document
----
-
 # Protocol for Zymo Quick-DNA mini-prep plus kit D4069
 ## Modified for winter flounder low coverage whole genome sequencing
 
@@ -14,7 +9,7 @@ output: html_document
 - Preheat thermomixer to 55C
 
 
-1.Add a 1cm x 1cm piece of your sample to a labeled 2 ml  tube 
+1. Add a 1cm x 1cm piece of your sample to a labeled 2 ml  tube 
 
 2. Add 250 µl Water + 250 µl Solid Tissue Buffer (Blue) + 25 µl Proteinase K. Vortex to mix thoroughly
 
@@ -33,8 +28,7 @@ output: html_document
 ### If you’re quantifying your samples immediately after the extraction, remove Biotium Qubit reagents from the 4C fridge now
 
 
-
-
+## Steps
 1. Pellet the insoluble debris by centrifugation at 13,000rpm for 1 minute
 
 2. Transfer all of the aqueous supernatant to a clean 2ml tube
